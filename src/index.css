@@ -1,0 +1,10 @@
+@import "bootstrap/dist/css/bootstrap.min.css";
+
+.form-section{
+	width: 320px; /*pra centralizar, dou uma largura e a margin é auto*/
+	margin: 16px auto;
+} 
+
+.invalid{
+	color: red;
+}
