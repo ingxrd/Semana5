@@ -4,7 +4,7 @@ function Footer() {
     return (
         <div className="footer">
             <section className="footer bg-dark text-center text-white py-3 mt-4" >
-                <p>© BuzzBuzz MyTask. Todos os direitos reservados.</p>
+                <p>© BuzzBuzz. Todos os direitos reservados.</p>
             </section>
         </div>
     );
