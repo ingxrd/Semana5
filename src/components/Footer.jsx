@@ -3,9 +3,8 @@ import React from 'react';
 function Footer() {
     return (
         <div className="footer">
-            <section className="section">
-                <hr/>
-                <p>© 2024 MyTask. Todos os direitos reservados.</p>
+            <section className="footer bg-dark text-center text-white py-3 mt-4" >
+                <p>© BuzzBuzz MyTask. Todos os direitos reservados.</p>
             </section>
         </div>
     );
